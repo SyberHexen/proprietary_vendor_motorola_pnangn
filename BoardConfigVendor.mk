@@ -10,7 +10,6 @@ AB_OTA_PARTITIONS += \
     fsg \
     hyp \
     keymaster \
-    logo \
     modem \
     prov \
     qupfw \
